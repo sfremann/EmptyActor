@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EmptyActor",
+	"Description": "Very simple UE plugin defining an empty actor for C++",
+	"Category": "Other",
+	"CreatedBy": "Milayr",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/sfremann/EmptyActor",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "EmptyActorRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
